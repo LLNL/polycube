@@ -9,7 +9,7 @@ __________
 
 Polycube Edge Unfolder is distributed under the terms of the MIT license. All new contributions must be made under the MIT license.
 
-See [LICENSE](ADD SITE)
+See [LICENSE](https://github.com/LLNL/polycube/blob/master/LICENSE)
 
 SPDX-License-Identifier: MIT
 
